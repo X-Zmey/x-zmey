@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td width="200">
-      <img src="avatar.gif" width="180" alt="Dragon Avatar">
+    <td width="300">
+      <img src="avatar.gif" width="280" alt="Dragon Avatar">
     </td>
     <td>
       <h3>🐉 Dragon Wisdom 🐉</h3>

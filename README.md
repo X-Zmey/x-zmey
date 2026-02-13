@@ -1,14 +1,2 @@
-<table>
-  <tr>
-    <td>
-      <h3>🐉 Dragon Wisdom 🐉</h3>
-      <p>
-        🔥 <i>"A dragon without fear is just a lizard with wings."</i><br><br>
-        💜 <i>"In the heart of chaos, the dragon finds its flame."</i><br><br>
-        💚 <i>"Those who dance with dragons must expect to get burned."</i><br><br>
-        💙 <i>"The dragon teaches patience, for fire takes time to master."</i><br><br>
-        💛 <i>"Where others see destruction, the dragon sees transformation."</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/X-Zmey/x-zmey/blob/main/8149298-Steve-Jobs-Quote-Stay-hungry-Stay-foolish.jpg?raw=true" />
+<img src="https://github.com/X-Zmey/x-zmey/blob/main/Quotefancy-1223-3840x2160.jpg?raw=true" />
